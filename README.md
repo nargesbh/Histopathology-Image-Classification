@@ -10,10 +10,10 @@
 - [Contact](#contact)
 
 ## Introduction
-Welcome to the Deep Learning Image Classification Project! This repository contains code and information about various deep learning models for image classification. We have explored different model architectures and evaluated their performance on a specific dataset.
+Welcome to the Deep Learning Image Classification Project! This repository contains code and information about various deep learning models for image classification. I have explored different model architectures and evaluated their performance on a specific dataset.
 
 ## Project Overview
-In this project, we have:
+In this project, I have:
 
 - Explored various deep learning models for image classification.
 - Trained and evaluated these models on a custom dataset.
@@ -21,7 +21,7 @@ In this project, we have:
 - Provided detailed insights into the project's results.
 
 ## Dataset
-If you are interested in accessing the dataset used in this project, please send an email to [Nargesbabaahmadi7@gmail.com](mailto:Nargesbabaahmadi7@gmail.com). We'll be happy to provide you with the dataset upon request.
+If you are interested in accessing the dataset used in this project, please send an email to [Nargesbabaahmadi7@gmail.com](mailto:Nargesbabaahmadi7@gmail.com). I'll be happy to provide you with the dataset upon request.
 
 ## Library Requirements
 
@@ -53,7 +53,7 @@ To get started with this project, follow these steps:
 4. Run the notebooks to train and evaluate different deep learning models.
 
 ## Model Architectures
-We have experimented with the following model architectures:
+I have experimented with the following model architectures:
 
 1. **Homework Model**: The initial model provided for the assignment.
 2. **Architecture #1**: An updated model with modified convolutional layers.
@@ -61,7 +61,7 @@ We have experimented with the following model architectures:
 
 
 ## Performance Metrics
-We have measured the performance of each model using various metrics, including:
+I have measured the performance of each model using various metrics, including:
 
 - Accuracy
 - Precision
