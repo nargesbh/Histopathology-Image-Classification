@@ -1,4 +1,6 @@
-# Image Classification Project
+# Medical Image Classification Project
+
+![logo](pr2.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
