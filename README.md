@@ -5,7 +5,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
-- [Dataset](#dataset)
 - [Getting Started](#getting-started)
 - [Model Architectures](#model-architectures)
 - [Performance Metrics](#performance-metrics)
@@ -21,9 +20,6 @@ In this project, I have:
 - Trained and evaluated these models on a custom dataset.
 - Compared the performance of different model architectures.
 - Provided detailed insights into the project's results.
-
-## Dataset
-If you are interested in accessing the dataset used in this project, please send an email to [Nargesbabaahmadi7@gmail.com](mailto:Nargesbabaahmadi7@gmail.com). I'll be happy to provide you with the dataset upon request.
 
 ## Library Requirements
 
